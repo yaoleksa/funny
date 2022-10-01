@@ -9,6 +9,10 @@ p{
     width: 2em;
     border: solid;
     border-radius: 50%;
+    margin: 1rem;
+}
+div{
+    display:flex;
 }
 @media (min-width: 900px){
     #cpp_joke{
@@ -24,8 +28,12 @@ p{
         padding-bottom: -2rem;
     }
     #cloud_joke{
-        margin-bottom: 1rem;
-        padding-bottom: 1rem;
+        margin-top: 1rem;
+        padding-top: 1rem;
+    }
+    #girl_joke{
+        margin-top: 1rem;
+        padding-top: 1rem;
     }
 }
 @media (min-width: 320px){
@@ -46,5 +54,9 @@ p{
     #cloud_joke{
         margin-bottom: 1rem;
         padding-bottom: 1rem;
+    }
+    #girl_joke{
+        margin-top: 3rem;
+        padding-top: 3rem;
     }
 }

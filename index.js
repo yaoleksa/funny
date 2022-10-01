@@ -1,10 +1,11 @@
 const divArr = document.getElementsByTagName('div');
-const pArr = document.getElementsByTagName('p');
 
-function setNumbers(arrDiv, arrP){
+function setNumbers(arrDiv){
     for(let i = 1; i <= arrDiv.length; i++){
-        arrP[i - 1].innerHTML = i;
+        let pElement = document.createElement('p');
+        pElement.innerHTML = i;
+        divArr[i - 1].appendChild(pElement);
     }
 }
 
-setNumbers(divArr, pArr);
+setNumbers(divArr);
