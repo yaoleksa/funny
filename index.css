@@ -1,7 +1,35 @@
 html{
     background-image: url('./background.jpg');
 }
-div{
-    margin-top: 2rem;
-    padding-top: 2rem;
+@media (max-width: 900px){
+    #cpp_joke{
+        margin-top: 1rem;
+        padding-top: 1rem;
+    }
+    #waiters{
+        margin-top: 2rem;
+        padding-top: 2rem;
+    }
+    #horse{
+        margin-top: 2rem;
+        padding-top: 2rem;
+    }
+}
+@media (min-width: 900px){
+    #cpp_joke{
+        margin-top: -8rem;
+        padding-top: -8rem;
+    }
+    #waiters{
+        margin-top: -12rem;
+        padding-top: -12rem;
+    }
+    #horses{
+        margin-top: -2rem;
+        padding-top: -2rem;
+    }
+    #cloud_joke{
+        margin-top: 1rem;
+        padding-top: 1rem;
+    }
 }
