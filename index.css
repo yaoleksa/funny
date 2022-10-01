@@ -1,24 +1,6 @@
 html{
     background-image: url('./background.jpg');
 }
-@media (max-width: 600px){
-    #cpp_joke{
-        margin-top: 25rem;
-        padding-top: 25rem;
-    }
-    #waiters{
-        margin-top: 27rem;
-        padding-top: 27rem;
-    }
-    #horse{
-        margin-top: 25rem;
-        padding-top: 25rem;
-    }
-    #cloud_joke{
-        margin-top: 27rem;
-        padding-top: 27rem;
-    }
-}
 @media (min-width: 900px){
     #cpp_joke{
         margin-top: -8rem;
