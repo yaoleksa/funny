@@ -37,13 +37,16 @@ div{
     }
 }
 @media (min-width: 320px){
+    #coffe{
+        margin-top: 3rem;
+    }
     #cpp_joke{
-        margin-bottom: 1rem;
-        padding-bottom: 1rem;
+        margin-top: 8rem;
+        padding-top: 8rem;
     }
     #waiters{
-        margin-bottom: 1rem;
-        padding-bottom: 1rem;
+        margin-top: 1rem;
+        padding-top: 1rem;
         margin-bottom: 1rem;
         padding-bottom: 1rem;
     }
