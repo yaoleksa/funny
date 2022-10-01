@@ -19,3 +19,21 @@ html{
         padding-top: 1rem;
     }
 }
+@media (max-width: 340px){
+    #cpp_joke{
+        margin-top: 18rem;
+        padding-top: 18rem;
+    }
+    #waiters{
+        margin-top: 12rem;
+        padding-top: 12rem;
+    }
+    #horses{
+        margin-top: 12rem;
+        padding-top: 12rem;
+    }
+    #cloud_joke{
+        margin-top: 1rem;
+        padding-top: 1rem;
+    }
+}
