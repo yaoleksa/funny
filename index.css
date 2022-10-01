@@ -19,7 +19,7 @@ html{
         padding-top: 1rem;
     }
 }
-@media (max-width: 340px){
+@media (min-width: 320px){
     #cpp_joke{
         margin-top: 18rem;
         padding-top: 18rem;
