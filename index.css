@@ -3,7 +3,8 @@ html{
 }
 p{
     text-align: center;
-    color:gold;
+    color:whitesmoke;
+    background-color: indigo;
     height: 2em;
     width: 2em;
     border: solid;
