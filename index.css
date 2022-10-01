@@ -1,3 +1,7 @@
 html{
     background-image: url('./background.jpg');
 }
+div{
+    margin-top: 2rem;
+    padding-top: 2rem;
+}
