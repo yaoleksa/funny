@@ -21,14 +21,14 @@ html{
 }
 @media (min-width: 320px){
     #cpp_joke{
-        margin-top: 5rem;
-        padding-top: 5rem;
+        margin-top: 2rem;
+        padding-top: 2rem;
     }
     #waiters{
-        margin-top: 5rem;
-        padding-top: 5rem;
-        margin-bottom: 5rem;
-        padding-bottom: 5rem;
+        margin-top: 2rem;
+        padding-top: 2rem;
+        margin-bottom: 2rem;
+        padding-bottom: 2rem;
     }
     #horses{
         margin-top: 12rem;
