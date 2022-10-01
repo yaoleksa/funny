@@ -3,20 +3,20 @@ html{
 }
 @media (max-width: 900px){
     #cpp_joke{
-        margin-top: 12rem;
-        padding-top: 12rem;
+        margin-top: 15rem;
+        padding-top: 15rem;
     }
     #waiters{
-        margin-top: 15rem;
-        padding-top: 15rem;
+        margin-top: 17rem;
+        padding-top: 17rem;
     }
     #horse{
-        margin-top: 12rem;
-        padding-top: 12rem;
-    }
-    #cloud_joke{
         margin-top: 15rem;
         padding-top: 15rem;
+    }
+    #cloud_joke{
+        margin-top: 17rem;
+        padding-top: 17rem;
     }
 }
 @media (min-width: 900px){
