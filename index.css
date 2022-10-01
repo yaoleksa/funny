@@ -1,0 +1,10 @@
+#unique {
+    padding: 0rem;
+    margin-top: -10rem;
+}
+#last{
+    margin-top: -12rem;
+}
+html{
+    background-image: url('./background.jpg');
+}
